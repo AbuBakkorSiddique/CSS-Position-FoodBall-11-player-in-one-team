@@ -1,0 +1,233 @@
+.main{
+    position : relative; 
+    height:600px; 
+    width:100%;
+    border:4px solid black; 
+}
+.bar{
+position:absolute; 
+    height:100px;
+    width:25px;
+    border:1px solid black;
+    top:44%;
+    left:0;
+
+}
+.bar2{
+    position:absolute; 
+    height:100px;
+    width:25px;
+    border:1px solid black;
+    top:44%;
+    right:0;
+
+}
+.middle{
+    position:absolute;
+    height:596px;
+    width:2px ;
+    background-color:black; 
+    top:0;
+    right:50%;
+}
+.middle-round{
+    position:absolute;
+    height:100px;
+    width:100px ;
+    left:47%;
+    border:1px solid black;
+    border-radius:50%;
+    top:46%;
+   
+}
+
+.sub11{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:48%;
+    left:28px; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat; 
+
+}
+.sub10{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:35%;
+    left:80px; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat; 
+
+}
+.sub9{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:63%;
+    left:80px; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat; 
+
+
+}
+
+.sub8{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:23%;
+    left:10%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+
+}
+
+.sub7{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:75%;
+    left:10%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.sub6{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:32%;
+    left:20%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.sub5{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:68%;
+    left:20%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.sub4{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:50%;
+    left:25%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.sub3{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:28%;
+    left:30%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.sub2{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:70%;
+    left:30%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+
+.sub1{
+    position:absolute;
+    height:50px ;
+    width:50px;
+    border:1px solid black;
+    border-radius:50%;
+    top:50%;
+    left:38%; 
+    background:url('../images/c92781112652d5a5265a2f952fb52b1b.png');
+    background-color:green;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+
+.D-Box{
+    position:absolute; 
+    height:400px;
+    width:15%;
+    border:1px solid black;
+    top:113px;
+
+
+}
+
+.D-Box-2{
+    position:absolute; 
+    height:400px;
+    width:15%;
+    border:1px solid black;
+    top:113px;
+    right:0;
+
+}
+
+// Now style for Team B brother 
+
+.sub11B{
+
+   height:50px;
+   width:100px;
+   border:1px solid black ; 
+ 
+
+}
